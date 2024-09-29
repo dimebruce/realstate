@@ -1,0 +1,21 @@
+[
+    {
+      "src": "https://picsum.photos/150",
+      "title": "First slide label",
+      "text": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+      "link": "https://example.com/first-slide"
+    },
+    {
+      "src": "https://picsum.photos/150",
+      "title": "Second slide label",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "link": "https://example.com/second-slide"
+    },
+    {
+      "src": "https://picsum.photos/150",
+      "title": "Third slide label",
+      "text": "Praesent commodo cursus magna, vel scelerisque nisl consectetur.",
+      "link": "https://example.com/third-slide"
+    }
+  ]
+  
